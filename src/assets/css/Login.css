@@ -1,0 +1,31 @@
+#bg{
+  height: 100%;
+  background: url("../../assets/images/loginBg.jpg") no-repeat 100% 100%;
+  background-size: 100% 100%;
+}
+#form-Con{
+  width: 31.5%;
+  padding: 0 6%;
+  background: rgba(255,255,255,0);
+}
+#form-Con > *{
+  background: rgba(255,255,255,0);
+}
+
+/*#form * input{*/
+  /*background: none;*/
+  /*border: none;*/
+/*}*/
+/*.ivu-input-group-prepend{*/
+  /*background: none;*/
+  /*border: none;*/
+/*}*/
+
+#verifyInput{
+  width: 55%;
+}
+#verify{
+  width: 39%;
+  height: 32px;
+  line-height: 32px;
+}

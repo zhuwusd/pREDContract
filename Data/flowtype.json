@@ -1,0 +1,98 @@
+[
+  {
+    "flow_id": 1,
+    "flow_name": "资质新建及续约流程",
+    "flow_category": "经销商资质类",
+    "flow_img": "bpm2",
+    "flow_tips": "资质新建及续约流程",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 2,
+    "flow_name": "授权及指标的新建和续约流程",
+    "flow_category": "经销商资质类",
+    "flow_img": "bpm3",
+    "flow_tips": "授权及指标的新建和续约流程",
+    "url": "EmpowermentProcess"
+  },
+  {
+    "flow_id": 3,
+    "flow_name": "经销商授权及指标变更",
+    "flow_category": "经销商资质类",
+    "flow_img": "bpm4",
+    "flow_tips": "经销商授权及指标变更",
+    "url": "EmpowermentChange"
+  },
+  {
+    "flow_id": 4,
+    "flow_name": "授权及指标的新建及续约流程",
+    "flow_category": "授权及指标类",
+    "flow_img": "bpm5",
+    "flow_tips": "授权及指标的新建及续约流程",
+    "url": "EmpowermentProcess"
+  },
+  {
+    "flow_id": 5,
+    "flow_name": "续约经销商授权与指标",
+    "flow_category": "授权及指标类",
+    "flow_img": "bpm6",
+    "flow_tips": "续约经销商授权与指标",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 6,
+    "flow_name": "新建经销商招标授权",
+    "flow_category": "招标授权类",
+    "flow_img": "bpm7",
+    "flow_tips": "新建经销商招标授权",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 7,
+    "flow_name": "变更经销商授权",
+    "flow_category": "授权及指标类",
+    "flow_img": "bpm8",
+    "flow_tips": "变更经销商授权",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 8,
+    "flow_name": "终止经销商",
+    "flow_category": "招标授权类",
+    "flow_img": "bpm9",
+    "flow_tips": "终止经销商",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 9,
+    "flow_name": "次级经销商数据修改",
+    "flow_category": "经销商资质类",
+    "flow_img": "bpm10",
+    "flow_tips": "次级经销商数据修改",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 10,
+    "flow_name": "新建次级经销商授权",
+    "flow_category": "招标授权类",
+    "flow_img": "bpm11",
+    "flow_tips": "新建次级经销商授权",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 11,
+    "flow_name": "变更次级经销商授权",
+    "flow_category": "招标授权类",
+    "flow_img": "bpm12",
+    "flow_tips": "变更次级经销商授权",
+    "url": "VendorProcess"
+  },
+  {
+    "flow_id": 12,
+    "flow_name": "DD续约",
+    "flow_category": "DD类",
+    "flow_img": "bpm13",
+    "flow_tips": "DD续约",
+    "url": "VendorProcess"
+  }
+]

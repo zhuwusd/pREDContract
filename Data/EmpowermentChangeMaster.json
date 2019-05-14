@@ -1,0 +1,289 @@
+{
+  "vendor_id": "1",
+  "guid": "404676343e7611e99a5500bb6047b56b",
+  "basic_info": {
+    "company_name": "携程",
+    "bu_code": 1,
+    "bu_name": "关节",
+    "vendor_type": 26,
+    "change_effect_date": "2019-06-01",
+    "protocol_effect_data": "2019-03-19",
+    "protocol_expire_data": "2019-03-27",
+    "medical_business_license_effective_date": "2019-03-04",
+    "medical_business_license_expire_date": "2019-04-04",
+    "medical_business_license_business_scope": "",
+    "medical_business_license2_record_date": "2019-03-26",
+    "medical_business_license2_business_scope": "矫形外科（骨科）手术器械,手术室，急救室，诊疗室设备及器具",
+    "sap_id": "xxxxxxxxxxxxxxxxxx",
+    "parent_company_name": "阿里巴巴",
+    "status": "已签约"
+  },
+  "empowerment_info": {
+    "empowerment_info_id": 17,
+    "empowerment_product": {
+      "empowerment_product_id": 1,
+      "empowerment_area_info": {
+        "empowerment_area_id": 4,
+        "distribution_model": "直销",
+        "is_rebate": true,
+        "empowerment_areas": [
+          {
+            "province_code": "110000",
+            "province_name": "北京市",
+            "cities": [
+              {
+                "city_code": "110100",
+                "city_name": "北京市",
+                "is_direct_choose": false,
+                "hospitals": [
+                  {
+                    "province_code": "110000",
+                    "province_name": "北京市",
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "11",
+                    "hospital_name": "北京军区总医院",
+                    "order_number": null
+                  },
+                  {
+                    "province_code": "110000",
+                    "province_name": "北京市",
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "12",
+                    "hospital_name": "北京协和医院",
+                    "order_number": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "130000",
+            "province_name": "河北省",
+            "cities": []
+          },
+          {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "cities": [
+              {
+                "city_code": "310100",
+                "city_name": "上海市",
+                "is_direct_choose": true,
+                "hospitals": [
+                  {
+                    "province_code": "310000",
+                    "province_name": "上海市",
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "1",
+                    "hospital_name": "上海五官科医院",
+                    "order_number": null
+                  },
+                  {
+                    "province_code": "310000",
+                    "province_name": "上海市",
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "10",
+                    "hospital_name": "上海长征医院",
+                    "order_number": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "430000",
+            "province_name": "湖南省",
+            "cities": [
+              {
+                "city_code": "430100",
+                "city_name": "长沙市",
+                "is_direct_choose": true,
+                "hospitals": []
+              },
+              {
+                "city_code": "430700",
+                "city_name": "常德市",
+                "is_direct_choose": true,
+                "hospitals": []
+              }
+            ]
+          }
+        ],
+        "change_empowerment_areas": [
+          {
+            "province_code": "110000",
+            "province_name": "北京市",
+            "cities": [
+              {
+                "city_code": "110100",
+                "city_name": "北京市",
+                "is_direct_choose": false,
+                "hospitals": [
+                  {
+                    "province_code": "110000",
+                    "province_name": "北京市",
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "11",
+                    "hospital_name": "北京军区总医院",
+                    "order_number": null
+                  },
+                  {
+                    "province_code": "110000",
+                    "province_name": "北京市",
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "12",
+                    "hospital_name": "北京协和医院",
+                    "order_number": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "130000",
+            "province_name": "河北省",
+            "cities": []
+          },
+          {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "cities": [
+              {
+                "city_code": "310100",
+                "city_name": "上海市",
+                "is_direct_choose": true,
+                "hospitals": [
+                  {
+                    "province_code": "310000",
+                    "province_name": "上海市",
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "1",
+                    "hospital_name": "上海五官科医院",
+                    "order_number": null
+                  },
+                  {
+                    "province_code": "310000",
+                    "province_name": "上海市",
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "10",
+                    "hospital_name": "上海长征医院",
+                    "order_number": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "430000",
+            "province_name": "湖南省",
+            "cities": [
+              {
+                "city_code": "430100",
+                "city_name": "长沙市",
+                "is_direct_choose": true,
+                "hospitals": []
+              },
+              {
+                "city_code": "430700",
+                "city_name": "常德市",
+                "is_direct_choose": true,
+                "hospitals": []
+              }
+            ]
+          }
+        ]
+      },
+      "product_line": [
+        {
+          "is_direct_choose": true,
+          "products": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "change_product_line": [
+        {
+          "is_direct_choose": true,
+          "products": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "areas_remark": "区域备注",
+      "product_line_remark": "产品线备注"
+    },
+    "empowerment_file": {
+      "bu": 1,
+      "effect_date": "2019-01-01",
+      "expire_date": "2019-12-31",
+      "uploader": 10,
+      "empowerment_attachment": {
+        "id": 1,
+        "remark": null,
+        "name": "38758PICX4Z",
+        "attachment_type": null,
+        "extension": ".jpg",
+        "path": "/static/uploads/temp/2/7e951a52-06a7-11e9-b595-00bb6047b56b.jpg"
+      }
+    },
+    "empowerment_seal_file": {
+      "bu": 1,
+      "effect_date": "2019-01-01",
+      "expire_date": "2019-12-31",
+      "uploader": 10,
+      "empowerment_seal_attachment": {
+        "id": 1,
+        "remark": null,
+        "name": "38758PICX4Z",
+        "attachment_type": null,
+        "extension": ".jpg",
+        "path": "/static/uploads/temp/2/7e951a52-06a7-11e9-b595-00bb6047b56b.jpg"
+      }
+    },
+    "empowerment_target": {
+      "is_share_master": false,
+      "year": 2018,
+      "target_jan": 10000,
+      "target_feb": 10000,
+      "target_mar": 10000,
+      "target_apr": 10000,
+      "target_may": 10000,
+      "target_june": 10000,
+      "target_july": 10000,
+      "target_aug": 10000,
+      "target_sep": 10000,
+      "target_oct": 10000,
+      "target_nov": 10000,
+      "target_dec": 10000
+    },
+    "change_empowerment_target": {
+      "is_share_master": false,
+      "year": 2018,
+      "target_jan": 10000,
+      "target_feb": 10000,
+      "target_mar": 10000,
+      "target_apr": 10000,
+      "target_may": 10000,
+      "target_june": 10000,
+      "target_july": 10000,
+      "target_aug": 10000,
+      "target_sep": 10000,
+      "target_oct": 10000,
+      "target_nov": 10000,
+      "target_dec": 10000
+    }
+  },
+  "can_start_workflow": true
+}

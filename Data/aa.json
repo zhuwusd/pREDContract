@@ -1,0 +1,36 @@
+[
+    {
+        "flow_category": "经销商资质类",
+        "items": [
+            {
+                "flow_id": "1",
+                "flow_name": "资质新建及续约流程",
+                "flow_img": "1.png",
+                "flow_tips": "资质新建及续约流程"
+            },
+            {
+                "flow_id": "2",
+                "flow_name": "授权及批标的新建及续约流程",
+                "flow_img": "2.png",
+                "flow_tips": "授权及批标的新建及续约流程"
+            }
+        ]
+    },
+    {
+        "flow_category": "DD类",
+        "items": [
+            {
+                "flow_id": "1",
+                "flow_name": "资质新建及续约流程",
+                "flow_img": "1.png",
+                "flow_tips": "资质新建及续约流程"
+            },
+            {
+                "flow_id": "2",
+                "flow_name": "授权及批标的新建及续约流程",
+                "flow_img": "2.png",
+                "flow_tips": "授权及批标的新建及续约流程"
+            }
+        ]
+    }
+]

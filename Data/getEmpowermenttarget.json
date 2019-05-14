@@ -1,0 +1,49 @@
+{
+    "basic_info": {
+      "company_name": "南京a公司",
+      "company_nature": "待确认",
+      "bu": 1,
+      "contract_type": 1,
+      "sap_code": "sap_code",
+      "master_company_name": "南京B公司",
+      "master_sap_code": "母公司sapcode",
+      "effect_date": "2018-12-30",
+      "expire_date": "2019-12-29",
+      "is_rebate": true,
+      "is_completed": true,
+      "annual_target": 1000000
+    },
+    "details": [
+      {
+        "year": 2018,
+        "origin_target": {
+          "target_jan": 10000,
+          "target_feb": 10000,
+          "target_mar": 10000,
+          "target_apr": 10000,
+          "target_may": 10000,
+          "target_june": 10000,
+          "target_july": 10000,
+          "target_aug": 10000,
+          "target_sep": 10000,
+          "target_oct": 10000,
+          "target_nov": 10000,
+          "target_dec": 10000
+        },
+        "current_target": {
+          "target_jan": 10000,
+          "target_feb": 10000,
+          "target_mar": 10000,
+          "target_apr": 10000,
+          "target_may": 10000,
+          "target_june": 10000,
+          "target_july": 10000,
+          "target_aug": 10000,
+          "target_sep": 10000,
+          "target_oct": 10000,
+          "target_nov": 10000,
+          "target_dec": 10000
+        }
+      }
+    ]
+  }

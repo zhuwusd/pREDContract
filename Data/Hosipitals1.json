@@ -1,0 +1,97 @@
+{
+    "page_size": 10,
+    "page": 1,
+    "count": 20,
+    "results": [
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "上海市",
+            "hospital_code": "1",
+            "hospital_name": "上海五官科医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "上海市",
+            "hospital_code": "2",
+            "hospital_name": "上海长征医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "北京市",
+            "hospital_code": "3",
+            "hospital_name": "北京军区总医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "北京市",
+            "hospital_code": "4",
+            "hospital_name": "北京协和医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "北京市",
+            "hospital_code": "5",
+            "hospital_name": "北京大学第三医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "合肥市",
+            "hospital_code": "6",
+            "hospital_name": "合肥第一医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "合肥市",
+            "hospital_code": "7",
+            "hospital_name": "合肥第二医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "上海市",
+            "hospital_code": "8",
+            "hospital_name": "复旦大学附属华山医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "上海市",
+            "hospital_code": "9",
+            "hospital_name": "徐汇区医院",
+            "order_number": null
+        },
+        {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "city_code": "310100",
+            "city_name": "石家庄市",
+            "hospital_code": "10",
+            "hospital_name": "河北省医院",
+            "order_number": null
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+	"vendor_id": "2",
+	"guid": "56690aa4456e11e9a070d481d7958b71",
+	"basic_info": {
+		"company_name": "测试公司一1",
+		"protocol_effect_data": null,
+		"protocol_expire_data": null,
+		"medical_business_license_effective_date": "2019-03-01",
+		"medical_business_license_expire_date": "2019-03-27",
+		"medical_business_license_business_scope": "植入材料和人工器官",
+		"medical_business_license2_record_date": "2019-03-14",
+		"medical_business_license2_business_scope": "矫形外科（骨科）手术器械",
+		"sap_id": null,
+		"status": "已签约"
+	},
+	"contacts": [
+		{
+			"contract_id": 1,
+			"contract_attachment": null,
+			"contract_bu": [
+				1
+			],
+			"create_time": "2019-03-13T17:37:07.359046+08:00",
+			"modify_time": "2019-03-13T17:37:07.360046+08:00",
+			"is_active": true,
+			"contract_agent": "李1",
+			"is_contract_agent": true,
+			"contract_delegate": null,
+			"contract_recipient": "李2",
+			"contract_recipient_phone": "010-1234567",
+			"contract_mail_address": "北京五环",
+			"contract_mail_postcode": "430000",
+			"business_contact": "李3",
+			"business_contact_email": "test11@qq.com",
+			"is_current_contact": false
+		}
+	],
+	"additional_warehouses": [
+		{
+			"additional_warehouses_id": 1,
+			"additional_warehouses_bu": [
+				1
+			],
+			"warehouse_license_attachment": {
+				"id": 1,
+				"remark": null,
+				"name": "test",
+				"attachment_type": null,
+				"extension": ".txt",
+				"path": "/static/uploads/temp/3/175c9c48-456d-11e9-8eba-d481d7958b71.txt"
+			},
+			"warehouse_medical_license_attachment": {
+				"id": 3,
+				"remark": null,
+				"name": "test",
+				"attachment_type": null,
+				"extension": ".txt",
+				"path": "/static/uploads/temp/3/1c06799c-456d-11e9-a949-d481d7958b71.txt"
+			},
+			"warehouse_medical_license2_attachment": {
+				"id": 2,
+				"remark": null,
+				"name": "test",
+				"attachment_type": null,
+				"extension": ".txt",
+				"path": "/static/uploads/temp/3/19f9f93a-456d-11e9-b78d-d481d7958b71.txt"
+			},
+			"warehouse_declare_attachment": {
+				"id": 4,
+				"remark": null,
+				"name": "test",
+				"attachment_type": null,
+				"extension": ".txt",
+				"path": "/static/uploads/temp/3/1dbda598-456d-11e9-bd72-d481d7958b71.txt"
+			},
+			"create_time": "2019-03-13T17:37:07.559046+08:00",
+			"modify_time": "2019-03-13T17:37:07.560046+08:00",
+			"is_active": true,
+			"receiving_party": "李4",
+			"receiving_address": "北京五环",
+			"is_current_warehouses": false
+		}
+	],
+	"can_start_workflow": true
+}

@@ -1,0 +1,800 @@
+{
+  "BU": [
+    {
+      "bu_code": 1,
+      "region_code": [
+        {
+          "region_code": 1,
+          "region_name": "东一区"
+        },
+        {
+          "region_code": 2,
+          "region_name": "东二区"
+        },
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 4,
+          "region_name": "西南区"
+        },
+        {
+          "region_code": 5,
+          "region_name": "西北区"
+        },
+        {
+          "region_code": 6,
+          "region_name": "北一区"
+        },
+        {
+          "region_code": 7,
+          "region_name": "北二区"
+        },
+        {
+          "region_code": 8,
+          "region_name": "北三区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 1,
+          "product_line_level": "Level 1",
+          "product_line_name": "捷迈邦美关节全线产品（包含骨水泥）",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 2,
+          "product_line_level": "Level 2",
+          "product_line_name": "捷迈关节全线产品",
+          "product_line_parent_code": 1
+        },
+        {
+          "product_line_code": 3,
+          "product_line_level": "Level 2",
+          "product_line_name": "邦美关节全线产品",
+          "product_line_parent_code": 1
+        },
+        {
+          "product_line_code": 7,
+          "product_line_level": "Level 2",
+          "product_line_name": "骨水泥产品",
+          "product_line_parent_code": 1
+        },
+        {
+          "product_line_code": 8,
+          "product_line_level": "Level 2",
+          "product_line_name": "邦美髋臼螺钉",
+          "product_line_parent_code": 1
+        },
+        {
+          "product_line_code": 17,
+          "product_line_level": "Level 3",
+          "product_line_name": "捷迈关节膝关节产品",
+          "product_line_parent_code": 2
+        },
+        {
+          "product_line_code": 18,
+          "product_line_level": "Level 3",
+          "product_line_name": "捷迈关节髋关节产品",
+          "product_line_parent_code": 2
+        },
+        {
+          "product_line_code": 19,
+          "product_line_level": "Level 3",
+          "product_line_name": "邦美关节膝关节产品",
+          "product_line_parent_code": 3
+        },
+        {
+          "product_line_code": 20,
+          "product_line_level": "Level 3",
+          "product_line_name": "邦美关节髋关节产品",
+          "product_line_parent_code": 3
+        },
+        {
+          "product_line_code": 27,
+          "product_line_level": "Level 4",
+          "product_line_name": "eLibra",
+          "product_line_parent_code": 17
+        },
+        {
+          "product_line_code": 28,
+          "product_line_level": "Level 4",
+          "product_line_name": "Combo Persona",
+          "product_line_parent_code": 17
+        },
+        {
+          "product_line_code": 29,
+          "product_line_level": "Level 4",
+          "product_line_name": "iAssist",
+          "product_line_parent_code": 18
+        },
+        {
+          "product_line_code": 30,
+          "product_line_level": "Level 4",
+          "product_line_name": "Combo Vanguard 360",
+          "product_line_parent_code": 19
+        },
+        {
+          "product_line_code": 31,
+          "product_line_level": "Level 4",
+          "product_line_name": "Combo AA",
+          "product_line_parent_code": 18
+        },
+        {
+          "product_line_code": 32,
+          "product_line_level": "Level 4",
+          "product_line_name": "Combo G7+Taperloc",
+          "product_line_parent_code": 18
+        },
+        {
+          "product_line_code": 33,
+          "product_line_level": "Level 4",
+          "product_line_name": "Combo Arcos",
+          "product_line_parent_code": 20
+        }
+      ],
+      "bu_name": "关节"
+    },
+    {
+      "bu_code": 2,
+      "region_code": [
+        {
+          "region_code": 1,
+          "region_name": "东一区"
+        },
+        {
+          "region_code": 2,
+          "region_name": "东二区"
+        },
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 6,
+          "region_name": "北一区"
+        },
+        {
+          "region_code": 7,
+          "region_name": "北二区"
+        },
+        {
+          "region_code": 8,
+          "region_name": "北三区"
+        },
+        {
+          "region_code": 9,
+          "region_name": "西区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 4,
+          "product_line_level": "Level 1",
+          "product_line_name": "捷迈邦美全线创伤产品线",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 5,
+          "product_line_level": "Level 1",
+          "product_line_name": "蒙太因创伤产品线",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 9,
+          "product_line_level": "Level 2",
+          "product_line_name": "捷迈创伤产品线",
+          "product_line_parent_code": 4
+        },
+        {
+          "product_line_code": 10,
+          "product_line_level": "Level 2",
+          "product_line_name": "邦美创伤产品线",
+          "product_line_parent_code": 4
+        }
+      ],
+      "bu_name": "创伤"
+    },
+    {
+      "bu_code": 3,
+      "region_code": [
+        {
+          "region_code": 1,
+          "region_name": "东一区"
+        },
+        {
+          "region_code": 2,
+          "region_name": "东二区"
+        },
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 4,
+          "region_name": "西南区"
+        },
+        {
+          "region_code": 5,
+          "region_name": "西北区"
+        },
+        {
+          "region_code": 6,
+          "region_name": "北一区"
+        },
+        {
+          "region_code": 7,
+          "region_name": "北二区"
+        },
+        {
+          "region_code": 8,
+          "region_name": "北三区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 6,
+          "product_line_level": "Level 1",
+          "product_line_name": "捷迈邦美全线肩肘产品线",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 11,
+          "product_line_level": "Level 2",
+          "product_line_name": "捷迈肩肘产品线",
+          "product_line_parent_code": 6
+        },
+        {
+          "product_line_code": 12,
+          "product_line_level": "Level 2",
+          "product_line_name": "邦美肩关节产品线",
+          "product_line_parent_code": 6
+        }
+      ],
+      "bu_name": "肩肘"
+    },
+    {
+      "bu_code": 4,
+      "region_code": [
+        {
+          "region_code": 1,
+          "region_name": "东一区"
+        },
+        {
+          "region_code": 2,
+          "region_name": "东二区"
+        },
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 5,
+          "region_name": "西北区"
+        },
+        {
+          "region_code": 6,
+          "region_name": "北一区"
+        },
+        {
+          "region_code": 7,
+          "region_name": "北二区"
+        },
+        {
+          "region_code": 9,
+          "region_name": "西区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 13,
+          "product_line_level": "Level 1",
+          "product_line_name": "捷迈邦美脊柱全产品线",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 14,
+          "product_line_level": "Level 2",
+          "product_line_name": "LDR脊柱产品线",
+          "product_line_parent_code": 13
+        },
+        {
+          "product_line_code": 15,
+          "product_line_level": "Level 2",
+          "product_line_name": "捷迈脊柱产品线",
+          "product_line_parent_code": 13
+        },
+        {
+          "product_line_code": 16,
+          "product_line_level": "Level 2",
+          "product_line_name": "邦美脊柱产品线",
+          "product_line_parent_code": 13
+        },
+        {
+          "product_line_code": 21,
+          "product_line_level": "Level 3",
+          "product_line_name": "Avenue L 侧路椎间融合系统",
+          "product_line_parent_code": 14
+        },
+        {
+          "product_line_code": 22,
+          "product_line_level": "Level 3",
+          "product_line_name": "Virage 颈椎后路固定系统",
+          "product_line_parent_code": 15
+        },
+        {
+          "product_line_code": 23,
+          "product_line_level": "Level 3",
+          "product_line_name": "Gallery",
+          "product_line_parent_code": 15
+        },
+        {
+          "product_line_code": 24,
+          "product_line_level": "Level 3",
+          "product_line_name": "MaxAn颈椎前路固定系统",
+          "product_line_parent_code": 16
+        },
+        {
+          "product_line_code": 25,
+          "product_line_level": "Level 3",
+          "product_line_name": "Zyston S椎间融合系统",
+          "product_line_parent_code": 16
+        },
+        {
+          "product_line_code": 26,
+          "product_line_level": "Level 3",
+          "product_line_name": "Zyston C椎间融合系统",
+          "product_line_parent_code": 16
+        }
+      ],
+      "bu_name": "脊柱"
+    },
+    {
+      "bu_code": 5,
+      "region_code": [
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 9,
+          "region_name": "西区"
+        },
+        {
+          "region_code": 12,
+          "region_name": "东区"
+        },
+        {
+          "region_code": 13,
+          "region_name": "北区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 41,
+          "product_line_level": "Level 1",
+          "product_line_name": "蒙太因关节老产品",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 42,
+          "product_line_level": "Level 1",
+          "product_line_name": "健步髋TM髋关节系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 43,
+          "product_line_level": "Level 1",
+          "product_line_name": "MPS-Flex膝关节系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 44,
+          "product_line_level": "Level 1",
+          "product_line_name": "AGC膝关节系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 45,
+          "product_line_level": "Level 1",
+          "product_line_name": "捷迈关节全线产品（含骨水泥及邦美髋臼螺钉）",
+          "product_line_parent_code": null
+        }
+      ],
+      "bu_name": "蒙太因"
+    },
+    {
+      "bu_code": 6,
+      "region_code": [
+        {
+          "region_code": 3,
+          "region_name": "南区"
+        },
+        {
+          "region_code": 9,
+          "region_name": "西区"
+        },
+        {
+          "region_code": 12,
+          "region_name": "东区"
+        },
+        {
+          "region_code": 13,
+          "region_name": "北区"
+        }
+      ],
+      "product_line_code": [
+        {
+          "product_line_code": 34,
+          "product_line_level": "Level 1",
+          "product_line_name": "植皮刀、植皮片制网器系列产品",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 35,
+          "product_line_level": "Level 1",
+          "product_line_name": "止血带系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 36,
+          "product_line_level": "Level 1",
+          "product_line_name": "动力系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 37,
+          "product_line_level": "Level 1",
+          "product_line_name": "关节翻修用超声手术设备及附件",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 38,
+          "product_line_level": "Level 1",
+          "product_line_name": "自体输血系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 39,
+          "product_line_level": "Level 1",
+          "product_line_name": "一次性清洗系统",
+          "product_line_parent_code": null
+        },
+        {
+          "product_line_code": 40,
+          "product_line_level": "Level 1",
+          "product_line_name": "骨水泥系列产品",
+          "product_line_parent_code": null
+        }
+      ],
+      "bu_name": "外科设备"
+    }
+  ],
+  "Region": [
+    {
+      "region_code": 1,
+      "region_name": "东一区"
+    },
+    {
+      "region_code": 2,
+      "region_name": "东二区"
+    },
+    {
+      "region_code": 3,
+      "region_name": "南区"
+    },
+    {
+      "region_code": 4,
+      "region_name": "西南区"
+    },
+    {
+      "region_code": 5,
+      "region_name": "西北区"
+    },
+    {
+      "region_code": 6,
+      "region_name": "北一区"
+    },
+    {
+      "region_code": 7,
+      "region_name": "北二区"
+    },
+    {
+      "region_code": 8,
+      "region_name": "北三区"
+    },
+    {
+      "region_code": 9,
+      "region_name": "西区"
+    },
+    {
+      "region_code": 10,
+      "region_name": "东1区"
+    },
+    {
+      "region_code": 11,
+      "region_name": "东2区"
+    },
+    {
+      "region_code": 12,
+      "region_name": "东区"
+    },
+    {
+      "region_code": 13,
+      "region_name": "北区"
+    }
+  ],
+  "ProductLine": [
+    {
+      "product_line_code": 1,
+      "product_line_level": "Level 1",
+      "product_line_name": "捷迈邦美关节全线产品（包含骨水泥）",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 2,
+      "product_line_level": "Level 2",
+      "product_line_name": "捷迈关节全线产品",
+      "product_line_parent_code": 1
+    },
+    {
+      "product_line_code": 3,
+      "product_line_level": "Level 2",
+      "product_line_name": "邦美关节全线产品",
+      "product_line_parent_code": 1
+    },
+    {
+      "product_line_code": 4,
+      "product_line_level": "Level 1",
+      "product_line_name": "捷迈邦美全线创伤产品线",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 5,
+      "product_line_level": "Level 1",
+      "product_line_name": "蒙太因创伤产品线",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 6,
+      "product_line_level": "Level 1",
+      "product_line_name": "捷迈邦美全线肩肘产品线",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 7,
+      "product_line_level": "Level 2",
+      "product_line_name": "骨水泥产品",
+      "product_line_parent_code": 1
+    },
+    {
+      "product_line_code": 8,
+      "product_line_level": "Level 2",
+      "product_line_name": "邦美髋臼螺钉",
+      "product_line_parent_code": 1
+    },
+    {
+      "product_line_code": 9,
+      "product_line_level": "Level 2",
+      "product_line_name": "捷迈创伤产品线",
+      "product_line_parent_code": 4
+    },
+    {
+      "product_line_code": 10,
+      "product_line_level": "Level 2",
+      "product_line_name": "邦美创伤产品线",
+      "product_line_parent_code": 4
+    },
+    {
+      "product_line_code": 11,
+      "product_line_level": "Level 2",
+      "product_line_name": "捷迈肩肘产品线",
+      "product_line_parent_code": 6
+    },
+    {
+      "product_line_code": 12,
+      "product_line_level": "Level 2",
+      "product_line_name": "邦美肩关节产品线",
+      "product_line_parent_code": 6
+    },
+    {
+      "product_line_code": 13,
+      "product_line_level": "Level 1",
+      "product_line_name": "捷迈邦美脊柱全产品线",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 14,
+      "product_line_level": "Level 2",
+      "product_line_name": "LDR脊柱产品线",
+      "product_line_parent_code": 13
+    },
+    {
+      "product_line_code": 15,
+      "product_line_level": "Level 2",
+      "product_line_name": "捷迈脊柱产品线",
+      "product_line_parent_code": 13
+    },
+    {
+      "product_line_code": 16,
+      "product_line_level": "Level 2",
+      "product_line_name": "邦美脊柱产品线",
+      "product_line_parent_code": 13
+    },
+    {
+      "product_line_code": 17,
+      "product_line_level": "Level 3",
+      "product_line_name": "捷迈关节膝关节产品",
+      "product_line_parent_code": 2
+    },
+    {
+      "product_line_code": 18,
+      "product_line_level": "Level 3",
+      "product_line_name": "捷迈关节髋关节产品",
+      "product_line_parent_code": 2
+    },
+    {
+      "product_line_code": 19,
+      "product_line_level": "Level 3",
+      "product_line_name": "邦美关节膝关节产品",
+      "product_line_parent_code": 3
+    },
+    {
+      "product_line_code": 20,
+      "product_line_level": "Level 3",
+      "product_line_name": "邦美关节髋关节产品",
+      "product_line_parent_code": 3
+    },
+    {
+      "product_line_code": 21,
+      "product_line_level": "Level 3",
+      "product_line_name": "Avenue L 侧路椎间融合系统",
+      "product_line_parent_code": 14
+    },
+    {
+      "product_line_code": 22,
+      "product_line_level": "Level 3",
+      "product_line_name": "Virage 颈椎后路固定系统",
+      "product_line_parent_code": 15
+    },
+    {
+      "product_line_code": 23,
+      "product_line_level": "Level 3",
+      "product_line_name": "Gallery",
+      "product_line_parent_code": 15
+    },
+    {
+      "product_line_code": 24,
+      "product_line_level": "Level 3",
+      "product_line_name": "MaxAn颈椎前路固定系统",
+      "product_line_parent_code": 16
+    },
+    {
+      "product_line_code": 25,
+      "product_line_level": "Level 3",
+      "product_line_name": "Zyston S椎间融合系统",
+      "product_line_parent_code": 16
+    },
+    {
+      "product_line_code": 26,
+      "product_line_level": "Level 3",
+      "product_line_name": "Zyston C椎间融合系统",
+      "product_line_parent_code": 16
+    },
+    {
+      "product_line_code": 27,
+      "product_line_level": "Level 4",
+      "product_line_name": "eLibra",
+      "product_line_parent_code": 17
+    },
+    {
+      "product_line_code": 28,
+      "product_line_level": "Level 4",
+      "product_line_name": "Combo Persona",
+      "product_line_parent_code": 17
+    },
+    {
+      "product_line_code": 29,
+      "product_line_level": "Level 4",
+      "product_line_name": "iAssist",
+      "product_line_parent_code": 18
+    },
+    {
+      "product_line_code": 30,
+      "product_line_level": "Level 4",
+      "product_line_name": "Combo Vanguard 360",
+      "product_line_parent_code": 19
+    },
+    {
+      "product_line_code": 31,
+      "product_line_level": "Level 4",
+      "product_line_name": "Combo AA",
+      "product_line_parent_code": 18
+    },
+    {
+      "product_line_code": 32,
+      "product_line_level": "Level 4",
+      "product_line_name": "Combo G7+Taperloc",
+      "product_line_parent_code": 18
+    },
+    {
+      "product_line_code": 33,
+      "product_line_level": "Level 4",
+      "product_line_name": "Combo Arcos",
+      "product_line_parent_code": 20
+    },
+    {
+      "product_line_code": 34,
+      "product_line_level": "Level 1",
+      "product_line_name": "植皮刀、植皮片制网器系列产品",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 35,
+      "product_line_level": "Level 1",
+      "product_line_name": "止血带系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 36,
+      "product_line_level": "Level 1",
+      "product_line_name": "动力系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 37,
+      "product_line_level": "Level 1",
+      "product_line_name": "关节翻修用超声手术设备及附件",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 38,
+      "product_line_level": "Level 1",
+      "product_line_name": "自体输血系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 39,
+      "product_line_level": "Level 1",
+      "product_line_name": "一次性清洗系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 40,
+      "product_line_level": "Level 1",
+      "product_line_name": "骨水泥系列产品",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 41,
+      "product_line_level": "Level 1",
+      "product_line_name": "蒙太因关节老产品",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 42,
+      "product_line_level": "Level 1",
+      "product_line_name": "健步髋TM髋关节系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 43,
+      "product_line_level": "Level 1",
+      "product_line_name": "MPS-Flex膝关节系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 44,
+      "product_line_level": "Level 1",
+      "product_line_name": "AGC膝关节系统",
+      "product_line_parent_code": null
+    },
+    {
+      "product_line_code": 45,
+      "product_line_level": "Level 1",
+      "product_line_name": "捷迈关节全线产品（含骨水泥及邦美髋臼螺钉）",
+      "product_line_parent_code": null
+    }
+  ]
+}

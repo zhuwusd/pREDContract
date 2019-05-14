@@ -1,0 +1,65 @@
+{
+    "results": [
+      {
+        "company_name": "南京a公司",
+        "bu": "关节",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      },
+      {
+        "company_name": "南京b公司",
+        "bu": "创伤",
+        "empowerment_effective_date": "2019/01/01",
+        "empowerment_expire_date": "2019/12/01",
+        "empowerment_guid": "e52aa66e118111e9abbd00bb6047b56b"
+      }
+    ],
+    "page": 1,
+    "page_size": 10,
+    "count": 13,
+    "next": "http://127.0.0.1:8000//pi/empowerment/list?page=2",
+    "previous": null
+  }

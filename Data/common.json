@@ -1,0 +1,242 @@
+[
+  {
+    "type": "medical_business_license_scope",
+    "code": 1,
+    "name": "植入材料和人工器官"
+  },
+  {
+    "type": "medical_business_license_scope",
+    "code": 2,
+    "name": "医用缝合材料及粘合剂"
+  },
+  {
+    "type": "medical_business_license_scope",
+    "code": 3,
+    "name": "应用超声仪器及有关设备"
+  },
+  {
+    "type": "medical_business_license2_scope",
+    "code": 4,
+    "name": "矫形外科（骨科）手术器械"
+  },
+  {
+    "type": "medical_business_license2_scope",
+    "code": 5,
+    "name": "手术室，急救室，诊疗室设备及器具"
+  },
+  {
+    "type": "contract_status",
+    "code": 6,
+    "name": ""
+  },
+  {
+    "type": "contract_status",
+    "code": 7,
+    "name": "未签约"
+  },
+  {
+    "type": "contract_status",
+    "code": 8,
+    "name": "审核中"
+  },
+  {
+    "type": "contract_status",
+    "code": 9,
+    "name": "已终止"
+  },
+  {
+    "type": "contract_status",
+    "code": 10,
+    "name": "已续约"
+  },
+  {
+    "type": "contract_status",
+    "code": 11,
+    "name": "已签约"
+  },
+  {
+    "type": "distribution_mode",
+    "code": 12,
+    "name": "直销"
+  },
+  {
+    "type": "distribution_mode",
+    "code": 13,
+    "name": "分销"
+  },
+  {
+    "type": "distribution_type",
+    "code": 14,
+    "name": "一级经销商"
+  },
+  {
+    "type": "distribution_type",
+    "code": 15,
+    "name": "二级经销商"
+  },
+  {
+    "type": "mytask_status",
+    "code": 16,
+    "name": "未操作"
+  },
+  {
+    "type": "mytask_status",
+    "code": 17,
+    "name": "已操作"
+  },
+  {
+    "type": "myapply_status",
+    "code": 18,
+    "name": "进行中"
+  },
+  {
+    "type": "myapply_status",
+    "code": 19,
+    "name": "已结束"
+  },
+  {
+    "type": "payment_type",
+    "code": 20,
+    "name": "银行转账"
+  },
+  {
+    "type": "payment_type",
+    "code": 21,
+    "name": "信用卡"
+  },
+  {
+    "type": "company_nature1",
+    "code": 22,
+    "name": "非上市公司"
+  },
+  {
+    "type": "company_nature1",
+    "code": 23,
+    "name": "上市公司"
+  },
+  {
+    "type": "company_nature2",
+    "code": 24,
+    "name": "个人独资企业/合伙企业"
+  },
+  {
+    "type": "company_nature2",
+    "code": 25,
+    "name": "政府/国有企业"
+  },
+  {
+    "type": "vendor_type",
+    "code": 26,
+    "name": "平台"
+  },
+  {
+    "type": "vendor_type",
+    "code": 27,
+    "name": "普通经销商"
+  },
+  {
+    "type": "vendor_type",
+    "code": 28,
+    "name": "服务商模式下经销商"
+  },
+  {
+    "type": "vendor_type",
+    "code": 29,
+    "name": "捷迈高返模式经销商"
+  },
+  {
+    "type": "vendor_type",
+    "code": 30,
+    "name": "Montagne工厂高返模式经销商"
+  },
+  {
+    "type": "vendor_type",
+    "code": 31,
+    "name": "服务商模式下服务商"
+  },
+  {
+    "type": "approval_type",
+    "code": 32,
+    "name": "平台"
+  },
+  {
+    "type": "apply_type",
+    "code": 33,
+    "name": "新增"
+  },
+  {
+    "type": "apply_type",
+    "code": 34,
+    "name": "续约"
+  },
+  {
+    "type": "protocol_type",
+    "code": 35,
+    "name": "普通经销商主协议"
+  },
+  {
+    "type": "protocol_type",
+    "code": 36,
+    "name": "服务商模式经销商主协议"
+  },
+  {
+    "type": "protocol_type",
+    "code": 37,
+    "name": "捷迈高返模式经销商主协议"
+  },
+  {
+    "type": "protocol_type",
+    "code": 38,
+    "name": "Montagne工厂高返模式经销商主协议"
+  },
+  {
+    "type": "protocol_type",
+    "code": 39,
+    "name": "服务商模式服务商主协议"
+  },
+  {
+    "type": "medical_business_license_scope",
+    "code": 40,
+    "name": "体外循环及血液处理设备"
+  },
+  {
+    "type": "medical_business_license_scope",
+    "code": 41,
+    "name": "医用高分子材料及制品"
+  },
+  {
+    "type": "medical_business_license_scope",
+    "code": 42,
+    "name": "手术室、急救室、诊疗室设备及器具"
+  },
+  {
+    "type": "medical_business_license2_scope",
+    "code": 43,
+    "name": "医用电子仪器设备"
+  },
+  {
+    "type": "medical_business_license2_scope",
+    "code": 44,
+    "name": "烧伤整形科手术器械"
+  },
+  {
+    "type": "distribution_type",
+    "code": 45,
+    "name": "服务商"
+  },
+  {
+    "type": "distribution_type",
+    "code": 46,
+    "name": "其他"
+  },
+  {
+    "type": "distribution_type2",
+    "code": 47,
+    "name": "一级经销商"
+  },
+  {
+    "type": "distribution_type2",
+    "code": 48,
+    "name": "服务商"
+  }
+]

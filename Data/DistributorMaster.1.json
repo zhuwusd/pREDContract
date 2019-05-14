@@ -1,0 +1,242 @@
+[
+  {
+    "vendor_id": 14,
+    "guid": "837a079a394611e9a2800242ac120002",
+    "status": 11,
+    "can_start_workflow": true,
+    "company": {
+      "company_id": 30,
+      "basic_info": {
+        "company_basic_id": 30,
+        "company_type1": 23,
+        "company_type2": 24,
+        "create_time": "2019-02-26T05:44:22.774273+08:00",
+        "modify_time": "2019-02-26T05:44:22.774307+08:00",
+        "company_name_cn": "公司测试4",
+        "company_name_en": "公司测试4",
+        "company_province": "110000",
+        "company_city": "110101",
+        "registered_address_cn": "公司测试4",
+        "registered_address_en": "公司测试4",
+        "registered_capital": 44.0,
+        "fax": "公司测试4",
+        "legal_representative": "公司测试4",
+        "selling_contract": "公司测试4",
+        "sap_id": null,
+        "business_contact": "公司测试4",
+        "company_email": "a14@aa.com"
+      },
+      "apply_info_list": [
+        {
+          "vendor_apply_id": 17,
+          "vendor_type": 27,
+          "apply_type": 33,
+          "status": 11,
+          "create_time": "2019-02-26T05:51:04.938476+08:00",
+          "modify_time": "2019-02-26T05:51:04.938502+08:00"
+        }
+      ],
+      "manager_info": {
+        "manager_info_id": 17,
+        "create_time": "2019-02-26T05:51:04.922851+08:00",
+        "modify_time": "2019-02-26T05:51:04.922884+08:00",
+        "shareholders": "公司测试4",
+        "director": "公司测试4",
+        "supervisor": "公司测试4",
+        "financial_beneficiary": "公司测试4",
+        "general_manager": "公司测试4",
+        "other_manager": "公司测试4"
+      },
+      "contacts": [
+        {
+          "contract_id": 17,
+          "contract_attachment": null,
+          "contract_bu": [
+            2
+          ],
+          "create_time": "2019-02-26T05:51:04.944142+08:00",
+          "modify_time": "2019-02-26T05:51:04.944169+08:00",
+          "is_active": true,
+          "contract_agent": "公司测试4",
+          "is_contract_agent": false,
+          "contract_delegate": null,
+          "contract_recipient": "公司测试4",
+          "contract_recipient_phone": "18661737964",
+          "contract_mail_address": "公司测试4",
+          "contract_mail_postcode": "444222",
+          "business_contact": "公司测试4",
+          "business_contact_email": "a13@aa.com",
+          "is_current_contact": false
+        }
+      ],
+      "additional_warehouses": [
+        {
+          "additional_warehouses_id": 4,
+          "additional_warehouses_bu": [
+            3
+          ],
+          "warehouse_license_attachment": null,
+          "warehouse_medical_license_attachment": null,
+          "warehouse_medical_license2_attachment": null,
+          "warehouse_declare_attachment": null,
+          "create_time": "2019-02-26T05:51:04.960398+08:00",
+          "modify_time": "2019-02-26T05:51:04.960439+08:00",
+          "is_active": true,
+          "receiving_party": "公司测试4",
+          "receiving_address": "公司测试4",
+          "is_current_warehouses": false
+        }
+      ],
+      "invoice_info": [
+        {
+          "invoice_id": 4,
+          "payment_type": 20,
+          "create_time": "2019-02-26T05:51:04.978728+08:00",
+          "modify_time": "2019-02-26T05:51:04.978757+08:00",
+          "invoice_address": "公司测试4",
+          "invoice_recipient": "公司测试4",
+          "credit_due_time": "公司测试4",
+          "card_number": "6223383837347222",
+          "bank_address": "公司测试4"
+        }
+      ],
+      "business_licenses": [
+        {
+          "business_license_id": 4,
+          "business_license_attachment": null,
+          "create_time": "2019-02-26T05:51:04.983861+08:00",
+          "modify_time": "2019-02-26T05:51:04.983889+08:00",
+          "is_active": true,
+          "license_no": "",
+          "license_effective_date": "2019-02-07",
+          "license_expire_date": "2019-02-26",
+          "license_certification_body": ""
+        }
+      ],
+      "medical_business_licenses": [
+        {
+          "medical_business_license_id": 4,
+          "medical_warehouses": [
+            {
+              "id": 7,
+              "warehouse_address": "公司测试4",
+              "warehouse_area": "公司测试4"
+            }
+          ],
+          "medical_business_license_attachment": null,
+          "medical_business_license_business_scope": [
+            1,
+            2
+          ],
+          "create_time": "2019-02-26T05:51:04.989442+08:00",
+          "modify_time": "2019-02-26T05:51:04.989470+08:00",
+          "is_active": true,
+          "medical_business_license_no": "公司测试4",
+          "medical_business_license_effective_date": "2019-02-01",
+          "medical_business_license_expire_date": "2019-02-28",
+          "medical_business_license_certification_body": "公司测试4"
+        }
+      ],
+      "medical_business_license_seconds": [
+        {
+          "medical_business_license_second_id": 4,
+          "medical_second_warehouses": [
+            {
+              "id": 8,
+              "warehouse_address": "公司测试4",
+              "warehouse_area": "公司测试4"
+            }
+          ],
+          "medical_business_license2_attachment": null,
+          "medical_business_license2_business_scope": [44],
+          "create_time": "2019-02-26T05:51:05.026765+08:00",
+          "modify_time": "2019-02-26T05:51:05.026798+08:00",
+          "is_active": true,
+          "medical_business_license2_no": "公司测试4",
+          "medical_business_license2_record_date": "2019-02-07",
+          "medical_business_license2_certification_body": "公司测试4"
+        }
+      ],
+      "provider_personnel_info": [],
+      "other_licenses": [
+        {
+          "other_license_id": 4,
+          "other_warehouses": [],
+          "other_license_attachment": null,
+          "create_time": "2019-02-26T05:51:05.045394+08:00",
+          "modify_time": "2019-02-26T05:51:05.045438+08:00",
+          "is_active": true,
+          "license_no": "公司测试4",
+          "license_certification_body": "公司测试4",
+          "license_effective_date": "2019-02-06",
+          "license_expire_date": "2019-02-12",
+          "remark": "公司测试4"
+        }
+      ],
+      "approval_unseal_files": [
+        {
+          "approval_file_id": 4,
+          "approval_attachment": {
+            "id": 9,
+            "remark": null,
+            "name": "4ed58c40-1d31-11e8-9d89-fc4dd4d8d7c7",
+            "extension": ".jpg",
+            "path": "/static/uploads/temp/3/9000ac02-3e78-11e9-9d34-00bb6047b56b.jpg"
+          },
+          "protocol_type": 35,
+          "create_time": "2019-02-26T05:51:05.053290+08:00",
+          "modify_time": "2019-02-26T05:51:05.053319+08:00",
+          "is_active": true,
+          "remark": "备注",
+          "approval_effective_date": "2018-12-01",
+          "approval_expire_date":  "2018-12-01",
+          "uploader":"18721346344",
+          "upload_time":"2018-12-12 12:00",
+          "vendor_type": null
+        }
+      ],
+      "approval_seal_files": [
+        {
+          "approval_file_id": 4,
+          "approval_attachment": {
+            "id": 9,
+            "remark": null,
+            "name": "4ed58c40-1d31-11e8-9d89-fc4dd4d8d7c7",
+            "extension": ".jpg",
+            "path": "/static/uploads/temp/3/9000ac02-3e78-11e9-9d34-00bb6047b56b.jpg"
+          },
+          "protocol_type": 35,
+          "create_time": "2019-02-26T05:51:05.058411+08:00",
+          "modify_time": "2019-02-26T05:51:05.058449+08:00",
+          "is_active": true,
+          "remark": "备注1",
+          "approval_effective_date":  "2018-12-01",
+          "approval_expire_date":  "2018-12-01",
+          "uploader": "18721346344",
+          "upload_time": "2018-12-12 12:00",
+          "vendor_type": null
+        }
+      ],
+      "agent_intention_list": [],
+      "application_certificate": [],
+      "dd_information_list": [
+        {
+          "dd_information_id": 4,
+          "capture_attachment": null,
+          "reply_attachment": null,
+          "create_time": "2019-02-26T05:51:05.060964+08:00",
+          "modify_time": "2019-02-26T05:51:05.060989+08:00",
+          "is_active": true,
+          "dd_effective_date": "2019-02-12",
+          "dd_expire_date": "2019-03-06",
+          "dd_code": "公司测试4"
+        }
+      ],
+      "parent_company": null,
+      "create_time": "2019-02-26T05:44:22.776775+08:00",
+      "modify_time": "2019-02-26T05:51:04.927983+08:00"
+    },
+    "create_time": "2019-02-26T05:44:22.781965+08:00",
+    "modify_time": "2019-02-26T05:51:05.063450+08:00"
+  }
+]

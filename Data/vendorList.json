@@ -1,0 +1,33 @@
+{
+  "results": [
+      {
+          "company_name": "携程",
+          "status": 8,
+          "contract_status": "审核中",
+          "expire_data": "",
+          "effective_date": "",
+          "guid": "3db7469a-2e03-11e9-b0ad-00bb6047b56b"
+      },
+      {
+          "company_name": "百度饿了么",
+          "status": 8,
+          "contract_status": "审核中",
+          "expire_data": "",
+          "effective_date": "",
+          "guid": "79d90d88-2f69-11e9-adc1-00bb6047b56b"
+      },
+      {
+          "company_name": "腾讯",
+          "status": 11,
+          "contract_status": "已签约",
+          "expire_data": "",
+          "effective_date": "",
+          "guid": "f6b34fa6-2f6a-11e9-a553-00bb6047b56b"
+      }
+  ],
+  "page": 1,
+  "page_size": 5,
+  "count": 3,
+  "next": null,
+  "previous": null
+}

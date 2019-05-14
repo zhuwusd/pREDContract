@@ -1,0 +1,223 @@
+{
+  "company": {
+    "basic_info": {
+      "company_name_cn": "测试公司4",
+      "company_name_en": "测试公司4",
+      "company_province": "120000",
+      "company_city": "120101",
+      "registered_address_cn": "测试公司4",
+      "registered_address_en": "测试公司4",
+      "registered_capital": 33,
+      "bu": 1,
+      "fax": "测试公司4",
+      "legal_representative": "测试公司4",
+      "selling_contract": null,
+      "business_contact": null,
+      "company_email": "zhuwusd@163.com",
+      "company_type1": 23,
+      "company_type2": 24
+    },
+    "apply_info_list": [
+      {
+        "vendor_type": 27,
+        "apply_type": 33
+      }
+    ],
+    "manager_info": {
+      "shareholders": "测试公司4",
+      "director": "测试公司4",
+      "supervisor": "测试公司4",
+      "financial_beneficiary": "测试公司4",
+      "general_manager": "测试公司4",
+      "other_manager": "测试公司4"
+    },
+    "contacts": [
+      {
+        "contract_bu": [
+          2
+        ],
+        "contract_agent": "测试公司4",
+        "is_contract_agent": true,
+        "contract_delegate": null,
+        "contract_recipient": "测试公司4",
+        "contract_recipient_phone": "18667163796",
+        "contract_mail_address": "测试公司4",
+        "contract_mail_postcode": null,
+        "business_contact": "测试公司4",
+        "business_contact_email": null,
+        "contract_attachment": null
+      }
+    ],
+    "additional_warehouses": [
+      {
+        "additional_warehouses_bu": [
+          2
+        ],
+        "receiving_party": "测试公司4",
+        "receiving_address": "测试公司4",
+        "is_current_warehouses": false,
+        "warehouse_license_attachment": {
+          "id": 31,
+          "remark": null,
+          "name": "图像 014",
+          "extension": ".png",
+          "path": "/static/uploads/temp/3/102b3558-422b-11e9-8dd9-a0c5896eed16.png"
+        },
+        "warehouse_medical_license_attachment": null,
+        "warehouse_medical_license2_attachment": {
+          "id": 32,
+          "remark": null,
+          "name": "图像 016",
+          "extension": ".png",
+          "path": "/static/uploads/temp/3/10dc6230-422b-11e9-8be1-a0c5896eed16.png"
+        },
+        "warehouse_declare_attachment": null,
+        "is_active": true
+      }
+    ],
+    "invoice_info": [
+      {
+        "invoice_address": "测试公司4",
+        "invoice_recipient": "测试公司4",
+        "credit_due_time": "测试公司4",
+        "card_number": "62233223323424",
+        "bank_address": "测试公司4",
+        "payment_type": 20
+      }
+    ],
+    "business_licenses": [
+      {
+        "license_no": "测试公司4",
+        "license_certification_body": "测试公司4",
+        "license_effective_date": "2019-03-01",
+        "license_expire_date": "2019-03-21",
+        "is_active": true,
+        "business_license_attachment": null
+      }
+    ],
+    "medical_business_licenses": [
+      {
+        "medical_business_license_id": null,
+        "medical_business_license_no": "测试公司4",
+        "medical_business_license_certification_body": "测试公司4",
+        "medical_business_license_effective_date": "2019-02-28",
+        "medical_business_license_expire_date": "2019-03-13",
+        "is_active": true,
+        "medical_business_license_business_scope": [
+          2
+        ],
+        "medical_warehouses": [
+          {
+            "warehouse_address": "测试公司4",
+            "warehouse_area": "测试公司4"
+          }
+        ],
+        "medical_business_license_attachment": null
+      }
+    ],
+    "medical_business_license_seconds": [
+      {
+        "medical_business_license2_no": "测试公司4",
+        "medical_business_license2_certification_body": "测试公司4",
+        "medical_business_license2_record_date": "2019-03-27",
+        "medical_business_license2_business_scope": [],
+        "is_active": true,
+        "medical_second_warehouses": [
+          {
+            "warehouse_address": "测试公司4",
+            "warehouse_area": "测试公司4"
+          }
+        ],
+        "medical_business_license2_attachment": null
+      }
+    ],
+    "other_licenses": [
+      {
+        "license_no": null,
+        "is_active": true,
+        "license_certification_body": null,
+        "license_effective_date": null,
+        "license_expire_date": null,
+        "remark": null,
+        "other_license_attachment": null
+      }
+    ],
+    "dd_information_list": [
+      {
+        "dd_code": null,
+        "dd_effective_date": null,
+        "dd_expire_date": null,
+        "capture_attachment": null,
+        "reply_attachment": null,
+        "is_active": true
+      }
+    ],
+    "application_certificate": [
+      {
+        "third_party": "测试公司4",
+        "partner": "测试公司4",
+        "bid_details": "测试公司4",
+        "prepay": "测试公司4",
+        "is_cash_transaction": false,
+        "cash_transaction_instruction": "",
+        "similar_business": {
+          "distribution_mode_list": [
+            12,
+            13
+          ],
+          "core_hospital": "测试公司4",
+          "lower_distribution_number": 22,
+          "direct_selling_ratio": "22",
+          "distribution_ratio": "22"
+        },
+        "selling_target": "selling_target",
+        "current_market_quota": "current_market_quota",
+        "market_quota_first": "测试公司4",
+        "market_quota_second": "测试公司4",
+        "market_quota_third": "测试公司4",
+        "questionnaire_attachment": {
+          "id": 29,
+          "remark": null,
+          "name": "图像 007",
+          "extension": ".png",
+          "path": "/static/uploads/temp/3/afb6943a-422a-11e9-8bb3-a0c5896eed16.png"
+        },
+        "dd_attachment": {
+          "id": 30,
+          "remark": null,
+          "name": "图像 015",
+          "extension": ".png",
+          "path": "/static/uploads/temp/3/b1240e0c-422a-11e9-9602-a0c5896eed16.png"
+        },
+        "rpl_attachment": null,
+        "is_rpl_confirm": true
+      }
+    ],
+    "approval_seal_files": [
+      {
+        "remark": null,
+        "approval_effective_date": null,
+        "approval_expire_date": null,
+        "protocol_type": 35,
+        "uploader": null,
+        "upload_time": null,
+        "approval_attachment": null
+      }
+    ],
+    "approval_unseal_files": [
+      {
+        "remark": null,
+        "approval_effective_date": null,
+        "approval_expire_date": null,
+        "protocol_type": 35,
+        "uploader":null,
+        "upload_time": null,
+        "approval_attachment": null
+      }
+    ],
+
+    "parent_company": {
+      "company_name_cn": null
+    }
+  }
+}

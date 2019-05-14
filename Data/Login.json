@@ -1,0 +1,171 @@
+{
+    "user": {
+      "id": 3,
+      "username": "18721346344",
+      "email": "flow_sales@qq.com",
+      "is_staff": true,
+      "last_login": "2019-03-06T23:13:31.605943+08:00",
+      "groups": [
+        {
+          "id": 1,
+          "name": "flow_sales",
+          "permissions": [
+            {
+              "permission_id": 87,
+              "permission_name": "新建经销商招标授权"
+            },
+            {
+              "permission_id": 93,
+              "permission_name": "DD续约"
+            },
+            {
+              "permission_id": 82,
+              "permission_name": "资质新建及续约流程"
+            },
+            {
+              "permission_id": 89,
+              "permission_name": "终止经销商"
+            },
+            {
+              "permission_id": 85,
+              "permission_name": "授权及指标的新建及续约流程"
+            },
+            {
+              "permission_id": 88,
+              "permission_name": "变更经销商授权"
+            },
+            {
+              "permission_id": 86,
+              "permission_name": "续约经销商授权与指标"
+            },
+            {
+              "permission_id": 84,
+              "permission_name": "新建次级经销商流程"
+            },
+            {
+              "permission_id": 91,
+              "permission_name": "新建次级经销商授权"
+            },
+            {
+              "permission_id": 92,
+              "permission_name": "变更次级经销商授权"
+            },
+            {
+              "permission_id": 90,
+              "permission_name": "次级经销商数据修改"
+            },
+            {
+              "permission_id": 83,
+              "permission_name": "服务商或一级经销商数据修改"
+            },
+            {
+              "permission_id": 131,
+              "permission_name": "Can sales_approved"
+            },
+            {
+              "permission_id": 130,
+              "permission_name": "Can start dealercreation request"
+            },
+            {
+              "permission_id": 152,
+              "permission_name": "Can empowermentchange sales_approved"
+            },
+            {
+              "permission_id": 145,
+              "permission_name": "Can empowermentchange start empowermentchange request"
+            },
+            {
+              "permission_id": 169,
+              "permission_name": "Can empowerment sales_approved"
+            },
+            {
+              "permission_id": 174,
+              "permission_name": "Can empowerment sales_fill_sapid"
+            },
+            {
+              "permission_id": 160,
+              "permission_name": "Can empowerment start empowerment request"
+            }
+          ]
+        }
+      ],
+      "permissions": [
+        {
+          "permission_id": 87,
+          "permission_name": "新建经销商招标授权"
+        },
+        {
+          "permission_id": 93,
+          "permission_name": "DD续约"
+        },
+        {
+          "permission_id": 82,
+          "permission_name": "资质新建及续约流程"
+        },
+        {
+          "permission_id": 89,
+          "permission_name": "终止经销商"
+        },
+        {
+          "permission_id": 85,
+          "permission_name": "授权及指标的新建及续约流程"
+        },
+        {
+          "permission_id": 88,
+          "permission_name": "变更经销商授权"
+        },
+        {
+          "permission_id": 86,
+          "permission_name": "续约经销商授权与指标"
+        },
+        {
+          "permission_id": 84,
+          "permission_name": "新建次级经销商流程"
+        },
+        {
+          "permission_id": 91,
+          "permission_name": "新建次级经销商授权"
+        },
+        {
+          "permission_id": 92,
+          "permission_name": "变更次级经销商授权"
+        },
+        {
+          "permission_id": 90,
+          "permission_name": "次级经销商数据修改"
+        },
+        {
+          "permission_id": 83,
+          "permission_name": "服务商或一级经销商数据修改"
+        },
+        {
+          "permission_id": 130,
+          "permission_name": "Can start dealercreation request"
+        },
+        {
+          "permission_id": 145,
+          "permission_name": "Can empowermentchange start empowermentchange request"
+        },
+        {
+          "permission_id": 174,
+          "permission_name": "Can empowerment sales_fill_sapid"
+        },
+        {
+          "permission_id": 160,
+          "permission_name": "Can empowerment start empowerment request"
+        }
+      ],
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6ImZsb3dfc2FsZXMiLCJleHAiOjE1NTIxODUyMTEsImVtYWlsIjoiZmxvd19zYWxlc0BxcS5jb20ifQ.WlJF6kTI5Y8qENvAHx1OO6kPD8oZltkoITPaBI47RPw",
+      "next": null,
+      "company_name": null,
+      "bu": 4,
+      "phone": null,
+      "ext": null,
+      "title": null,
+      "employee_code": null,
+      "city": null,
+      "chinese_full_name": "上官婉儿",
+      "department": null,
+      "region": 2
+    }
+  }

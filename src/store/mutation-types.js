@@ -1,0 +1,17 @@
+export const SAVE_AGENTINTENTION = "SAVE_AGENTINTENTION";
+export const SAVE_BASEINFO = "SAVE_BASEINFO";
+export const SAVE_CERTIFICATES = "SAVE_CERTIFICATES";
+export const SET_VENDORINFO = "SET_VENDORINFO";
+
+
+
+export const SET_LOCATION = "SET_LOCATION";
+export const SET_FLOWCATEGORY = "SET_FLOWCATEGORY";
+export const SET_FLOWTYPE="SET_FLOWTYPE";
+export const SET_BU="SET_BU";
+export const SET_USER="SET_USER";
+
+export const SET_COMMON="SET_COMMON";
+export const SET_HOSIPITALS="SET_HOSIPITALS";
+
+export const SET_TASK="SET_TASK";

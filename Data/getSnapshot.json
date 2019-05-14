@@ -1,0 +1,350 @@
+{
+  "vendor_id": 14,
+  "guid": "fa0a7f46006211e9a06b00bb6047b56b",
+  "company": {
+    "company_id": 14,
+    "basic_info": {
+      "company_basic_id": 14,
+      "create_time": "2018-12-15T20:13:44.352526+08:00",
+      "modify_time": "2018-12-15T20:13:44.353531+08:00",
+      "company_name_cn": "阿里巴巴公司",
+      "company_name_en": "huayi",
+      "company_province": "浙江",
+      "company_city": "宁波",
+      "registered_address_cn": "中国浙江省宁波市象山001街道",
+      "registered_address_en": "china   ningbo",
+      "registered_capital": 100000,
+      "fax": "0542123",
+      "legal_representative": "Tidi.zhu",
+      "business_contact": "Toddy"
+    },
+    "apply_info_list": [
+      {
+        "vendor_type": 37,
+        "apply_type": 33
+      }
+    ],
+    "manager_info": {
+      "manager_info_id": 14,
+      "create_time": "2018-12-15T20:13:44.452228+08:00",
+      "modify_time": "2018-12-15T20:13:44.452228+08:00",
+      "shareholders": "张三",
+      "director": "李四",
+      "supervisor": "王朝",
+      "financial_beneficiary": "马汉",
+      "general_manager": "张龙",
+      "other_manager": "赵虎"
+    },
+    "similar_business": {
+      "similar_business_id": 14,
+      "distribution_mode_list": [
+        10
+      ],
+      "create_time": "2018-12-15T20:13:44.462202+08:00",
+      "modify_time": "2018-12-15T20:13:44.462202+08:00",
+      "core_hospital": "北京医院",
+      "lower_distribution_number": 100,
+      "direct_selling_ratio": "90%",
+      "distribution_ratio": "10%"
+    },
+    "business_licenses": [
+      {
+        "business_license_id": 14,
+        "business_license_attachment": {
+          "id": 2,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e0579a28-0022-11e9-8fd6-00bb6047b56b.png"
+        },
+        "create_time": "2018-12-15T20:13:44.611802+08:00",
+        "modify_time": "2018-12-15T20:13:44.611802+08:00",
+        "license_no": "90000001",
+        "license_effective_date": "2018-09-09",
+        "license_expire_date": "2018-09-11",
+        "license_certification_body": "象山公安局"
+      }
+    ],
+    "medical_business_licenses": [
+      {
+        "medical_business_license_id": 14,
+        "medical_warehouses": [
+          {
+            "id": 40,
+            "warehouse_address": "上海闵行紫竹园一路",
+            "warehouse_area": "100平方"
+          },
+          {
+            "id": 41,
+            "warehouse_address": "上海闵行紫竹园二路",
+            "warehouse_area": "300平方"
+          }
+        ],
+        "medical_business_license_attachment": {
+          "id": 3,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e0afee48-0022-11e9-968d-00bb6047b56b.png"
+        },
+        "medical_business_license_business_scope": [
+          1,
+          2
+        ],
+        "create_time": "2018-12-15T20:13:44.622772+08:00",
+        "modify_time": "2018-12-15T20:13:44.622772+08:00",
+        "medical_business_license_no": "2019010234",
+        "medical_business_license_effective_date": "2028-09-10",
+        "medical_business_license_expire_date": "2018-09-10",
+        "medical_business_license_certification_body": "合肥省公安局"
+      }
+    ],
+    "medical_business_license_seconds": [
+      {
+        "medical_business_license_second_id": 14,
+        "medical_second_warehouses": [
+          {
+            "id": 42,
+            "warehouse_address": "上海市浦东新区益江路110号",
+            "warehouse_area": "90平方"
+          }
+        ],
+        "medical_business_license2_attachment": null,
+        "medical_business_license2_business_scope": [
+          3
+        ],
+        "create_time": "2018-12-15T20:13:44.720511+08:00",
+        "modify_time": "2018-12-15T20:13:44.721509+08:00",
+        "medical_business_license2_no": "2019921234",
+        "medical_business_license2_record_date": "2018-09-10",
+        "medical_business_license2_certification_body": "上海市民政局",
+        "medical_business_license_second_attachment": 4
+      }
+    ],
+    "other_licenses": [
+      {
+        "other_license_id": 14,
+        "other_warehouses": [],
+        "other_license_attachment": {
+          "id": 5,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e1594a68-0022-11e9-9503-00bb6047b56b.png"
+        },
+        "create_time": "2018-12-15T20:13:44.777359+08:00",
+        "modify_time": "2018-12-15T20:13:44.777359+08:00",
+        "license_no": "90000001",
+        "license_certification_body": "象山公安局",
+        "license_effective_date": "2018-09-09",
+        "license_expire_date": "2018-09-11",
+        "remark": "备注"
+      }
+    ],
+    "contacts": [
+      {
+        "contract_id": 27,
+        "contract_attachment": {
+          "id": 1,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/df8aaccc-0022-11e9-922a-00bb6047b56b.png"
+        },
+        "contract_bu": [
+          1,
+          2
+        ],
+        "create_time": "2018-12-15T20:13:44.532015+08:00",
+        "modify_time": "2018-12-15T20:13:44.532015+08:00",
+        "contract_agent": "李时光",
+        "is_contract_agent": false,
+        "contract_delegate": "张磊",
+        "contract_recipient": "花无缺",
+        "contract_recipient_phone": "18721346344",
+        "contract_mail_address": "上海市浦东新区唐镇",
+        "contract_mail_postcode": "2000123",
+        "business_contact": "小鱼儿",
+        "business_contact_email": "xiaoyuer@163.com",
+        "is_current_contact": false
+      },
+      {
+        "contract_id": 28,
+        "contract_attachment": null,
+        "contract_bu": [
+          3
+        ],
+        "create_time": "2018-12-15T20:13:44.582879+08:00",
+        "modify_time": "2018-12-15T20:13:44.582879+08:00",
+        "contract_agent": "李云龙",
+        "is_contract_agent": true,
+        "contract_delegate": "和尚",
+        "contract_recipient": "朱传文",
+        "contract_recipient_phone": "13645374651",
+        "contract_mail_address": "上海市闵行区莘庄",
+        "contract_mail_postcode": "200012",
+        "business_contact": "朱传武",
+        "business_contact_email": "zhuchuanwu@qq.com",
+        "is_current_contact": false
+      }
+    ],
+    "additional_warehouses": [
+      {
+        "additional_warehouses_id": 14,
+        "additional_warehouses_bu": [
+          1,
+          2
+        ],
+        "warehouse_license_attachment": {
+          "id": 10,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e32994a8-0022-11e9-b06d-00bb6047b56b.png"
+        },
+        "warehouse_medical_license_attachment": {
+          "id": 11,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e384afd2-0022-11e9-aefd-00bb6047b56b.png"
+        },
+        "warehouse_medical_license2_attachment": {
+          "id": 12,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e3daa3b0-0022-11e9-a74c-00bb6047b56b.png"
+        },
+        "warehouse_declare_attachment": {
+          "id": 13,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e421b7ca-0022-11e9-80fa-00bb6047b56b.png"
+        },
+        "create_time": "2018-12-15T20:13:44.792319+08:00",
+        "modify_time": "2018-12-15T20:13:44.793316+08:00",
+        "receiving_party": "张飞",
+        "receiving_address": "浙江省宁波市198街道",
+        "is_current_warehouses": false
+      }
+    ],
+    "invoice_info": [
+      {
+        "invoice_address": "发票地址",
+        "invoice_recipient": "张三",
+        "credit_due_time": "10年",
+        "card_number": "6213831211821318",
+        "bank_address": "上海南西支行",
+        "payment_type": 21
+      }
+    ],
+    "approval_files": [
+      {
+        "approval_file_id": 14,
+        "approval_attachment": {
+          "id": 9,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e2de3812-0022-11e9-a6c5-00bb6047b56b.png"
+        },
+        "approval_file_type": 18,
+        "create_time": "2018-12-15T20:13:44.846176+08:00",
+        "modify_time": "2018-12-15T20:13:44.847173+08:00",
+        "remark": "审批文件备注"
+      }
+    ],
+    "agent_intention_list": [
+      {
+        "agent_intention_id": 14,
+        "distribution_type": 12,
+        "distribution_mode": 10,
+        "product_line_level": 4,
+        "agent_hospitals": [],
+        "upper_distribution": "医疗上唇医疗器械公司",
+        "contact_name": "联系人",
+        "contact_phone": "13000000000",
+        "agent_effective_date": "2018-11-11",
+        "agent_expire_date": "2019-11-11",
+        "is_existing_distribution": false,
+        "apply_years": "10年",
+        "first_purchase_qty": "90万",
+        "channel_volume_forecast": "100万",
+        "sales_target_first_year": "1000万",
+        "remark": "备注"
+      }
+    ],
+    "questionnaire_investigation": [],
+    "ef_investigations": [
+      {
+        "ef_investigation_id": 14,
+        "ef_attachment": {
+          "id": 6,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e1c4a3da-0022-11e9-8eea-00bb6047b56b.png"
+        },
+        "create_time": "2018-12-15T20:13:44.859141+08:00",
+        "modify_time": "2018-12-15T20:13:44.859141+08:00",
+        "is_confirm": true
+      }
+    ],
+    "dd_information_list": [
+      {
+        "dd_information_id": 14,
+        "capture_attachment": {
+          "id": 7,
+          "remark": null,
+          "name": "09.经销商-公司信息2",
+          "attachment_type": null,
+          "extension": ".png",
+          "path": "/static/uploads/temp/1/e2240bc8-0022-11e9-ac89-00bb6047b56b.png"
+        },
+        "reply_attachment": null,
+        "create_time": "2018-12-15T20:13:44.869113+08:00",
+        "modify_time": "2018-12-15T20:13:44.869113+08:00",
+        "dd_effective_date": "2018-09-11",
+        "dd_expire_date": "2018-09-17"
+      }
+    ],
+    "application_certificate": [
+      {
+        "third_party": "",
+        "partner": "",
+        "bid_details": "",
+        "prepay": "",
+        "is_cash_transaction": true,
+        "cash_transaction_instruction": "",
+        "similar_business": {
+          "distribution_mode_list": [],
+          "core_hospital": "",
+          "lower_distribution_number": null,
+          "direct_selling_ratio": "",
+          "distribution_ratio": ""
+        },
+        "market_quota_first": "",
+        "market_quota_second": "",
+        "market_quota_third": "",
+        "questionnaire_attachment": null,
+        "rpl_attachment": null,
+        "is_rpl_confirm": true
+      }
+    ],
+    "empowerment_products": [],
+    "create_time": "2018-12-15T20:13:44.506086+08:00",
+    "modify_time": "2018-12-15T20:13:44.507083+08:00"
+  }
+}

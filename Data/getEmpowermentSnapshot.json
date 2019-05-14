@@ -1,0 +1,247 @@
+{
+  "vendor_id": "1",
+  "guid": "404676343e7611e99a5500bb6047b56b",
+  "basic_info": {
+    "company_name": "携程",
+    "bu_code": 1,
+    "bu_name": "关节",
+    "vendor_type": 3,
+    "vendor_type_name": "普通经销商",
+    "protocol_effect_data": "2019-03-19",
+    "protocol_expire_data": "2019-03-27",
+    "medical_business_license_effective_date": "2019-03-04",
+    "medical_business_license_expire_date": "2019-04-04",
+    "medical_business_license_business_scope": "",
+    "medical_business_license2_record_date": "2019-03-26",
+    "medical_business_license2_business_scope": "矫形外科（骨科）手术器械,手术室，急救室，诊疗室设备及器具",
+    "sap_id": null,
+    "status": "已签约"
+  },
+  "contacts": [
+    {
+      "contract_bu": [],
+      "contract_agent": "魏延",
+      "is_contract_agent": false,
+      "contract_delegate": "马超",
+      "contract_recipient": "马腾",
+      "contract_recipient_phone": "13500091008",
+      "contract_mail_address": "上海",
+      "contract_mail_postcode": "100086",
+      "business_contact": "马代",
+      "business_contact_email": "ma@qq.com",
+      "is_current_contact": true,
+      "contract_attachment": null,
+      "contract_id": 1
+    }
+  ],
+  "additional_warehouses": [
+    {
+      "additional_warehouses_bu": [],
+      "receiving_party": "黄盖",
+      "receiving_address": "东吴",
+      "is_current_warehouses": true,
+      "warehouse_license_attachment": null,
+      "warehouse_medical_license_attachment": null,
+      "warehouse_medical_license2_attachment": null,
+      "warehouse_declare_attachment": null,
+      "is_current_contact": true
+    }
+  ],
+  "empowerment_info": {
+    "empowerment_product": {
+      "distribution_type": 28,
+      "empowerment_bu": 1,
+      "selling_region": [
+        1,
+        2
+      ],
+      "product_line": [
+        {
+          "is_direct_choose": true,
+          "products": [
+            17
+          ]
+        },
+        {
+          "is_direct_choose": true,
+          "products": [
+            18
+          ]
+        },
+        {
+          "is_direct_choose": true,
+          "products": [
+            19
+          ]
+        },
+        {
+          "is_direct_choose": true,
+          "products": [
+            20
+          ]
+        },
+        {
+          "is_direct_choose": true,
+          "products": [
+            7
+          ]
+        },
+        {
+          "is_direct_choose": true,
+          "products": [
+            8
+          ]
+        }
+      ],
+      "empowerment_effective_date": "2019-03-19",
+      "empowerment_expire_date": "2019-05-31",
+      "regional_manager": "大区经理",
+      "district_manager": "地区经理",
+      "sales_manager": "销售代表",
+      "sponsor": "资质信息确认人",
+      "empowerment_area_info": {
+        "distribution_mode": 12,
+        "empowerment_areas": [
+          {
+            "province_code": "110000",
+            "province_name": "北京市",
+            "cities": [
+              {
+                "city_code": "110100",
+                "city_name": "北京市",
+                "order_number": null,
+                "province_code": "110000",
+                "is_direct_choose": false,
+                "hospitals": [
+                  {
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "12",
+                    "hospital_name": "北京协和医院",
+                    "order_number": null,
+                    "province_code": "110000",
+                    "province_name": "北京市"
+                  },
+                  {
+                    "city_code": "110100",
+                    "city_name": "北京市",
+                    "hospital_code": "11",
+                    "hospital_name": "北京军区总医院",
+                    "order_number": null,
+                    "province_code": "110000",
+                    "province_name": "北京市"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "130000",
+            "province_name": "河北省",
+            "cities": []
+          },
+          {
+            "province_code": "310000",
+            "province_name": "上海市",
+            "cities": [
+              {
+                "city_code": "310100",
+                "city_name": "上海市",
+                "order_number": null,
+                "province_code": "310000",
+                "is_direct_choose": true,
+                "hospitals": [
+                  {
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "1",
+                    "hospital_name": "上海五官科医院",
+                    "order_number": null,
+                    "province_code": "310000",
+                    "province_name": "上海市"
+                  },
+                  {
+                    "city_code": "310100",
+                    "city_name": "上海市",
+                    "hospital_code": "10",
+                    "hospital_name": "上海长征医院",
+                    "order_number": null,
+                    "province_code": "310000",
+                    "province_name": "上海市"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "province_code": "430000",
+            "province_name": "湖南省",
+            "cities": [
+              {
+                "city_code": "430100",
+                "city_name": "长沙市",
+                "order_number": null,
+                "province_code": "430000",
+                "is_direct_choose": true,
+                "hospitals": []
+              },
+              {
+                "city_code": "430700",
+                "city_name": "常德市",
+                "order_number": null,
+                "province_code": "430000",
+                "is_direct_choose": true,
+                "hospitals": []
+              }
+            ]
+          }
+        ],
+        "is_rebate": true
+      }
+    },
+    "empowerment_file": {
+      "bu": 1,
+      "effect_date": null,
+      "expire_date": null,
+      "uploader": null,
+      "empowerment_attachment":null
+    },
+    "empowerment_seal_file": {
+      "bu": 5,
+      "effect_date": null,
+      "expire_date": null,
+      "uploader": null,
+      "empowerment_seal_attachment": null
+    },
+    "rebate_protocol_file":{
+      "bu": null,
+      "effect_date": null,
+      "expire_date": null,
+      "rebate_protocol_attachment": null,
+      "uploader": null
+    },
+    "rebate_protocol_seal_file":{
+      "bu": null,
+      "effect_date": null,
+      "expire_date": null,
+      "rebate_protocol_seal_attachment": null,
+      "uploader": null
+    },
+    "empowerment_target": {
+      "is_share_master": false,
+      "year": null,
+      "target_jan": 1,
+      "target_feb": 2,
+      "target_mar": 3,
+      "target_apr": 4,
+      "target_may": 5,
+      "target_june": 6,
+      "target_july": 7,
+      "target_aug": 8,
+      "target_sep": 9,
+      "target_oct": 100,
+      "target_nov": 10,
+      "target_dec": 11
+    }
+  }
+}
