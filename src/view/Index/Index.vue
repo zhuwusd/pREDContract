@@ -14,7 +14,7 @@
         <div v-bind:class="step=='MyApply'?'dms-pass':'dms-process'">
           <div class="icon"></div>
         </div>
-        <p>我的申请1111</p>
+        <p>我的申请11</p>
       </div>
 
 
